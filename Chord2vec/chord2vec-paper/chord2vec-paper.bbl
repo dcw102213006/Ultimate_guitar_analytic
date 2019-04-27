@@ -1,0 +1,63 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Allan and Williams(2005)]{allan2005harmonising}
+Moray Allan and Christopher~KI Williams.
+\newblock Harmonising chorales by probabilistic inference.
+\newblock 2005.
+
+\bibitem[Boulanger-lewandowski et~al.(2012)Boulanger-lewandowski, Bengio, and
+  Vincent]{bl}
+Nicolas Boulanger-lewandowski, Yoshua Bengio, and Pascal Vincent.
+\newblock Modeling temporal dependencies in high-dimensional sequences:
+  Application to polyphonic music generation and transcription.
+\newblock In John Langford and Joelle Pineau, editors, \emph{Proceedings of the
+  29th International Conference on Machine Learning (ICML-12)}, pages
+  1159--1166, New York, NY, USA, 2012. ACM.
+\newblock URL \url{http://icml.cc/2012/papers/590.pdf}.
+
+\bibitem[Cho et~al.(2014)Cho, Van~Merri{\"{e}}nboer, G{\"{u}}l{\c c}ehre,
+  Bahdanau, Bougares, Schwenk, and Bengio]{Cho}
+Kyunghyun Cho, Bart Van~Merri{\"{e}}nboer, {\c C}ağlar G{\"{u}}l{\c c}ehre,
+  Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, and Yoshua Bengio.
+\newblock Learning phrase representations using rnn encoder--decoder for
+  statistical machine translation.
+\newblock In \emph{Proceedings of the 2014 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 1724--1734, Doha, Qatar, October
+  2014. Association for Computational Linguistics.
+\newblock URL \url{http://www.aclweb.org/anthology/D14-1179}.
+
+\bibitem[Joulin et~al.(2016)Joulin, Grave, Bojanowski, and
+  Mikolov]{JoulinGBM16}
+Armand Joulin, Edouard Grave, Piotr Bojanowski, and Tomas Mikolov.
+\newblock Bag of tricks for efficient text classification.
+\newblock \emph{CoRR}, abs/1607.01759, 2016.
+\newblock URL \url{http://arxiv.org/abs/1607.01759}.
+
+\bibitem[Larochelle and Murray(2011)]{larochelle2011}
+Hugo Larochelle and Iain Murray.
+\newblock The neural autoregressive distribution estimator.
+\newblock \emph{JMLR: W\&CP}, 15:\penalty0 29--37, 2011.
+
+\bibitem[Mikolov et~al.(2013)Mikolov, Chen, Corrado, and Dean]{mik2013}
+Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean.
+\newblock Efficient estimation of word representations in vector space.
+\newblock \emph{CoRR}, abs/1301.3781, 2013.
+
+\bibitem[Poliner and Ellis(2007)]{poliner2007discriminative}
+Graham~E Poliner and Daniel~PW Ellis.
+\newblock A discriminative model for polyphonic piano transcription.
+\newblock \emph{EURASIP Journal on Applied Signal Processing}, 2007\penalty0
+  (1):\penalty0 154--154, 2007.
+
+\bibitem[Sutskever et~al.(2014)Sutskever, Vinyals, and Le]{SutskeverVL14}
+Ilya Sutskever, Oriol Vinyals, and Quoc~V. Le.
+\newblock Sequence to sequence learning with neural networks.
+\newblock \emph{CoRR}, abs/1409.3215, 2014.
+\newblock URL \url{http://arxiv.org/abs/1409.3215}.
+
+\end{thebibliography}

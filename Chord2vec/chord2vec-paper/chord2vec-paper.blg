@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: chord2vec-paper.aux
+The style file: plainnat.bst
+Database file #1: bibli.bib.bib
+Warning--empty journal in allan2005harmonising
+You've used 8 entries,
+            2773 wiz_defined-function locations,
+            649 strings with 6617 characters,
+and the built_in function-call counts, 4281 in all, are:
+= -- 391
+> -- 275
+< -- 5
++ -- 91
+- -- 83
+* -- 350
+:= -- 661
+add.period$ -- 30
+call.type$ -- 8
+change.case$ -- 51
+chr.to.int$ -- 8
+cite$ -- 17
+duplicate$ -- 189
+empty$ -- 312
+format.name$ -- 97
+if$ -- 901
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 8
+newline$ -- 52
+num.names$ -- 34
+pop$ -- 94
+preamble$ -- 1
+purify$ -- 43
+quote$ -- 0
+skip$ -- 161
+stack$ -- 0
+substring$ -- 140
+swap$ -- 30
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 88
+warning$ -- 1
+while$ -- 35
+width$ -- 0
+write$ -- 121
+(There was 1 warning)
