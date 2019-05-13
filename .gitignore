@@ -1,3 +1,12 @@
 
 *.mp3
-MongoConnect.py
+
+MongoConnect\.py
+
+*.pkl
+
+*.pickle
+
+data/
+
+Python_code/Question_Answering_Structure/QA_data/

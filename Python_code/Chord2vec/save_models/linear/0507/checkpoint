@@ -1,0 +1,2 @@
+model_checkpoint_path: "linear_D1024.ckpt-164"
+all_model_checkpoint_paths: "linear_D1024.ckpt-164"
